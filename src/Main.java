@@ -80,8 +80,8 @@ public class Main {
         var boxerWeight2 = 82.7;
         var differenceWeight = boxerWeight2 - boxerWeight1;
         var liftingCapacity = boxerWeight2 % boxerWeight1;
-        System.out.println("разницу между весами бойцов 1 способ " + differenceWeight + " кг");
-        System.out.println("разницу между весами бойцов 2 способ " + liftingCapacity  + " кг");
+        System.out.println("разницу между весами бойцов первый способ " + differenceWeight + " кг");
+        System.out.println("разницу между весами бойцов второй способ " + liftingCapacity  + " кг");
     }
     public static void task8 () {
         System.out.println("Задача 8");
